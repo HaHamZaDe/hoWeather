@@ -25,3 +25,7 @@ Feel free to explore the code and use it as a template for your weather app or o
 Demo images and API credentials are not included in the repository. Please replace them with your own assets and API keys to make the app fully functional.
 
 Happy coding!
+
+
+https://github.com/HaHamZaDe/hoWeather/assets/100444900/b1f94682-443c-4a2e-a8c5-f99f01bc8987
+
