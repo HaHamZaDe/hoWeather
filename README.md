@@ -1,9 +1,10 @@
 # hoWeather
-Weather App using React Native
+
+This is a weather application built using React Native. It allows users to view the current weather data for their location based on their device's GPS coordinates. Additionally, users can search for weather data in various cities around the world.
 
 <p align="center"><img src="https://github.com/HaHamZaDe/hoWeather/assets/100444900/5966730b-112f-4f69-8adb-924dd9176a07" alt="logo" width="300"></p>
 
-This is a weather application built using React Native. It allows users to view the current weather data for their location based on their device's GPS coordinates. Additionally, users can search for weather data in various cities around the world.
+
 
 ## Key Features:
 - Fetching weather data using the OpenWeatherMap API
